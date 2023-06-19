@@ -7,14 +7,22 @@ Functions are explained and marked by doxygen documentation.
 
 Graph is represented in txt form as two vertexes and edge between them
 For instance this small graph:
+![Screenshot](Graph_m.png)
 
 is represented in txt form like that:
+
 1010 2020
+
 1010 50
+
 2020 50
+
 50 78
+
 78 30
+
 30 70
+
 1010 70
 
 ## Test data
