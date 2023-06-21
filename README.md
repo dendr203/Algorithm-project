@@ -7,6 +7,7 @@ Functions are explained and marked by doxygen documentation.
 
 Graph is represented in txt form as two vertexes and edge between them
 For instance this small graph:
+
 ![Screenshot](Graph_m.png)
 
 is represented in txt form like that:
